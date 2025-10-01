@@ -1,0 +1,7 @@
+{
+  "num_games": 1,
+  "points_to_win": 3,
+  "rally_cap": 10,
+  "log_rallies": true,
+  "seed": 1
+}
